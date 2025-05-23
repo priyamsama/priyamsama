@@ -7,11 +7,11 @@ Data and AI enthusiast with a passion for applying machine learning solutions to
 - **Languages**: Python, R, SQL
 - **ML/AI**: TensorFlow, PyTorch, scikit-learn, Keras
 - **Data Analysis**: Pandas, NumPy, SciPy, Matplotlib, Seaborn
-- **Bioinformatics**: Biopython, Bioconductor, Galaxy, BLAST
-- **Cloud & Compute**: AWS, Google Cloud, Docker, HPC environments
+- **Bioinformatics**: Biopython, Bioconductor, BLAST
 - **Version Control**: Git, GitHub
 
 ## 🚀 Featured Projects
+## **Medical Chatbot** 
 
 
 ## 📊 GitHub Stats
